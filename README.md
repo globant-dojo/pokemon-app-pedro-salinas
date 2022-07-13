@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pokemon Pichincha
 ## Reto CRUD
 Pokemon Pichincha es una aplicación web que permite realizar un CRUD de pokemons usando las diferentes funcionalidades de ReactJs.
@@ -39,3 +40,6 @@ npm test
 ## Licencia
 
 Pedro Salinas Sagbay
+=======
+# pokemon-app-pedro-salinas
+>>>>>>> Initial commit
