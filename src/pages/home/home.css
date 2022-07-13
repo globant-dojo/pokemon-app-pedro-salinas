@@ -1,0 +1,19 @@
+.nav-cont {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem 0 !important;
+}
+
+.text-center {
+    text-align: center !important;
+}
+
+.mt-3 {
+    margin-top: 1.3rem;
+}
+
+.title {
+    color: #0F265C;
+    font-weight: normal;
+    margin-bottom: 10px;
+}
